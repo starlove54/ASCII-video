@@ -2,6 +2,10 @@
 
 This is a simple project that converts a live video feed into ASCII art in real-time. It uses the p5.js library to capture video from the user's webcam and convert each pixel into a corresponding ASCII character, based on its brightness.
 
+## Demo
+
+You can view a live demo of this project [here](https://ascii-video-starlove.vercel.app/)
+
 ## Getting Started
 
 To run this project, simply clone or download the repository and open the `index.html` file in a web browser. Make sure to allow access to your webcam when prompted.
